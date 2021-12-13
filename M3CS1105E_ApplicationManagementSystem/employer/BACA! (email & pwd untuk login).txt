@@ -1,0 +1,7 @@
+email: majujaya@gmail.com
+pwd: majujaya
+
+	ATAU
+
+email: starlightenterprise@gmail.com
+pwd: starlightenterprise
